@@ -5,4 +5,4 @@ open and close modal.
 
 # Live 
 
-[Live]()
+[Live](https://stankovics.github.io/JSmodal/)
